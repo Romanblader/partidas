@@ -1,0 +1,9 @@
+@{POW}
+@{CHA}
+@{STR}
+@{CON}
+@{SIZ}
+@{DEX}
+@{INT}
+
+CORTE : ${INT}+${CHA}
