@@ -1,0 +1,265 @@
+{
+    "profesionales": [
+        {
+            "Nombre": "Acrobacias",
+            "Caracteristicas": [
+                "FUE",
+                "DES"
+            ]
+        },
+        {
+            "Nombre": "Actuar",
+            "Caracteristicas": [
+                "CAR",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Arte",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Artesanía",
+            "Caracteristicas": [
+                "INT",
+                "DES"
+            ]
+        },
+        {
+            "Nombre": "Atadura",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Burocracia",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Callejeo",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Comercio",
+            "Caracteristicas": [
+                "INT",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Cortesía",
+            "Caracteristicas": [
+                "INT",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Cultura",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Curación",
+            "Caracteristicas": [
+                "INT",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Devoción",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Disfraz",
+            "Caracteristicas": [
+                "INT",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Enseñar",
+            "Caracteristicas": [
+                "CAR",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Exhortación",
+            "Caracteristicas": [
+                "INT",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Forzar Cerraduras",
+            "Caracteristicas": [
+                "DES",
+                "DES"
+            ]
+        },
+        {
+            "Nombre": "Idioma",
+            "Caracteristicas": [
+                "INT",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Ingeniería",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Invocación",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Juego",
+            "Caracteristicas": [
+                "INT",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Juego de manos",
+            "Caracteristicas": [
+                "DES",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Leer/Escribir",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Magia Común",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Manipulación",
+            "Caracteristicas": [
+                "INT",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Mecanismos",
+            "Caracteristicas": [
+                "INT",
+                "DES"
+            ]
+        },
+        {
+            "Nombre": "Meditación",
+            "Caracteristicas": [
+                "CON",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Misticismo",
+            "Caracteristicas": [
+                "CON",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Música",
+            "Caracteristicas": [
+                "DES",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Navegación",
+            "Caracteristicas": [
+                "CON",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Oratoria",
+            "Caracteristicas": [
+                "POD",
+                "CAR"
+            ]
+        },
+        {
+            "Nombre": "Orientación",
+            "Caracteristicas": [
+                "INT",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Rastrear",
+            "Caracteristicas": [
+                "CON",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Saber",
+            "Caracteristicas": [
+                "INT",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Seducción",
+            "Caracteristicas": [
+                "CAR",
+                "INT"
+            ]
+        },
+        {
+            "Nombre": "Supervivencia",
+            "Caracteristicas": [
+                "CON",
+                "POD"
+            ]
+        },
+        {
+            "Nombre": "Trance",
+            "Caracteristicas": [
+                "CON",
+                "POD"
+            ]
+        }
+    ],
+    "Equivalencias": {
+        "CON": "CON",
+        "POD": "POW",
+        "CAR": "CHA",
+        "FUE": "FUE",
+        "TAM": "SIZ",
+        "DES": "DEX",
+        "INT": "INT"
+    }
+}

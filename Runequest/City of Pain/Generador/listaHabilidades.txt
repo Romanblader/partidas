@@ -1,0 +1,36 @@
+Acrobacias: @{FUE}+@{DEX}
+Actuar: @{CHA}+@{CHA}
+Arte: @{POW}+@{CHA}
+Artesanía: @{INT}+@{DEX}
+Atadura: @{POW}+@{CHA}
+Burocracia: @{INT}+@{INT}
+Callejeo: @{POW}+@{CHA}
+Comercio: @{INT}+@{CHA}
+Cortesía: @{INT}+@{CHA}
+Cultura: @{INT}+@{INT}
+Curación: @{INT}+@{POW}
+Devoción: @{POW}+@{CHA}
+Disfraz: @{INT}+@{CHA}
+Enseñar: @{CHA}+@{INT}
+Exhortación: @{INT}+@{CHA}
+Forzar Cerraduras: @{DEX}+@{DEX}
+Idioma: @{INT}+@{CHA}
+Ingeniería: @{INT}+@{INT}
+Invocación: @{INT}+@{INT}
+Juego: @{INT}+@{POW}
+Juego de manos: @{DEX}+@{CHA}
+Leer/Escribir: @{INT}+@{INT}
+Magia Común: @{POW}+@{CHA}
+Manipulación: @{INT}+@{POW}
+Mecanismos: @{INT}+@{DEX}
+Meditación: @{CON}+@{INT}
+Misticismo: @{CON}+@{POW}
+Música: @{DEX}+@{CHA}
+Navegación: @{CON}+@{INT}
+Oratoria: @{POW}+@{CHA}
+Orientación: @{INT}+@{POW}
+Rastrear: @{CON}+@{INT}
+Saber: @{INT}+@{INT}
+Seducción: @{CHA}+@{INT}
+Supervivencia: @{CON}+@{POW}
+Trance: @{CON}+@{POW}
